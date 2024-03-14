@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App01</string>
+    <string name="digite_o_seu_usu_rio">Digite o seu usuário</string>
+    <string name="digite_a_sua_senha">Digite a sua senha</string>
+    <string name="esqueceu_a_senha_clique_aqui">Esqueceu a senha? Clique aqui.</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
